@@ -1,4 +1,4 @@
-# Magic Tiles Game Hack :fire:magic_wand:
+# Magic Tiles Game Hack :fire::magic_wand:
 
 Hi everybody :wave:
 
