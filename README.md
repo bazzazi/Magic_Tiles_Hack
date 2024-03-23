@@ -1,10 +1,10 @@
-# Magic Tiles Game Hack :fire:
+# Magic Tiles Game Hack :fire:magic_wand:
 
 Hi everybody :wave:
 
 Hope you doing well :blush:
 
-This `python` script will help you win in magic tiles game.See the Screenshots for more detail
+This `python` script will help you win in magic tiles game. See the Screenshots for more detail.
 
 
 ## Platforms :iphone::computer:
